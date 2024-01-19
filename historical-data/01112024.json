@@ -1,0 +1,1819 @@
+[
+	{
+		"type": "projection",
+		"betId": "1890341",
+		"adjustedOdds": null,
+		"description": "LAL",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 5,
+		"statType": "player_assists",
+		"marketName": "Assists",
+		"updatedAt": "2024-01-11T10:11:17-05:00",
+		"playerId": "96335",
+		"combo": false,
+		"displayName": "kevindurant",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Phoenix",
+		"name": "kevindurant",
+		"position": "F",
+		"team": "PHX",
+		"teamName": "Suns",
+		"internalPlayerId": "kevindurant963357",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 2.24,
+				"underOdds": 1.63,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 2.3,
+				"underOdds": 1.63,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 2.15,
+				"underOdds": 1.63,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 2.2,
+				"underOdds": 1.64,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 2.16,
+				"underOdds": 1.63,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 2.2,
+				"underOdds": 1.63,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 2.2,
+				"underOdds": 1.63,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 2.2,
+				"underOdds": 1.63,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.56,
+				"underOdds": 2.35,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.18,
+				"underOdds": 1.64,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.56,
+				"underOdds": 2.35,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.18,
+				"underOdds": 1.64,
+				"total": 5.5
+			}
+		],
+		"averagesByTotal": {
+			"5.5": {
+				"averageOverOdds": 2.2,
+				"averageUnderOdds": 1.63,
+				"bookCount": 10
+			},
+			"4.5": {
+				"averageOverOdds": 1.56,
+				"averageUnderOdds": 2.35,
+				"bookCount": 2
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "5.5",
+		"closestTotal": "5.5",
+		"sideToTarget": "under",
+		"higherAdjacentTotal": null,
+		"lowerAdjacentTotal": "4.5",
+		"strength": "23.40"
+	},
+	{
+		"type": "projection",
+		"betId": "1891469",
+		"adjustedOdds": null,
+		"description": "MIL",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 4,
+		"statType": "player_rebounds",
+		"marketName": "Rebounds",
+		"updatedAt": "2024-01-11T14:29:02-05:00",
+		"playerId": "60021",
+		"combo": false,
+		"displayName": "derrickwhite",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Boston",
+		"name": "derrickwhite",
+		"position": "G",
+		"team": "BOS",
+		"teamName": "Celtics",
+		"internalPlayerId": "derrickwhite600217",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 1.6,
+				"underOdds": 2.3,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 1.61,
+				"underOdds": 2.25,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 2.24,
+				"underOdds": 1.66,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 1.59,
+				"underOdds": 2.2,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.63,
+				"underOdds": 2.2,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.43,
+				"underOdds": 1.51,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.63,
+				"underOdds": 2.2,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.43,
+				"underOdds": 1.51,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 1.6,
+				"underOdds": 2.2,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 1.59,
+				"underOdds": 2.3,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 1.6,
+				"underOdds": 2.28,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 1.61,
+				"underOdds": 2.25,
+				"total": 3.5
+			}
+		],
+		"averagesByTotal": {
+			"3.5": {
+				"averageOverOdds": 1.61,
+				"averageUnderOdds": 2.24,
+				"bookCount": 9
+			},
+			"4.5": {
+				"averageOverOdds": 2.37,
+				"averageUnderOdds": 1.56,
+				"bookCount": 3
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "3.5",
+		"closestTotal": "3.5",
+		"sideToTarget": "over",
+		"higherAdjacentTotal": "4.5",
+		"lowerAdjacentTotal": null,
+		"strength": "23.34"
+	},
+	{
+		"type": "projection",
+		"betId": "1889633",
+		"adjustedOdds": null,
+		"description": "DAL",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 4,
+		"statType": "player_rebounds",
+		"marketName": "Rebounds",
+		"updatedAt": "2024-01-11T09:53:16-05:00",
+		"playerId": "85745",
+		"combo": false,
+		"displayName": "jalenbrunson",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "New York",
+		"name": "jalenbrunson",
+		"position": "G",
+		"team": "NYK",
+		"teamName": "Knicks",
+		"internalPlayerId": "jalenbrunson857457",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 1.63,
+				"underOdds": 2.24,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 1.63,
+				"underOdds": 2.2,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 1.65,
+				"underOdds": 2.18,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 1.65,
+				"underOdds": 2.12,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 1.65,
+				"underOdds": 2.15,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 1.63,
+				"underOdds": 2.2,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 1.67,
+				"underOdds": 2.22,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.68,
+				"underOdds": 2.1,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.55,
+				"underOdds": 1.48,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.68,
+				"underOdds": 2.1,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.6,
+				"underOdds": 1.47,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 1.67,
+				"underOdds": 2.1,
+				"total": 3.5
+			}
+		],
+		"averagesByTotal": {
+			"3.5": {
+				"averageOverOdds": 1.65,
+				"averageUnderOdds": 2.16,
+				"bookCount": 10
+			},
+			"4.5": {
+				"averageOverOdds": 2.58,
+				"averageUnderOdds": 1.48,
+				"bookCount": 2
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "3.5",
+		"closestTotal": "3.5",
+		"sideToTarget": "over",
+		"higherAdjacentTotal": "4.5",
+		"lowerAdjacentTotal": null,
+		"strength": "22.20"
+	},
+	{
+		"type": "projection",
+		"betId": "1890321",
+		"adjustedOdds": null,
+		"description": "LAL",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 4,
+		"statType": "player_rebounds",
+		"marketName": "Rebounds",
+		"updatedAt": "2024-01-11T09:54:41-05:00",
+		"playerId": "172380",
+		"combo": false,
+		"displayName": "bradleybeal",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Phoenix",
+		"name": "bradleybeal",
+		"position": "G",
+		"team": "PHX",
+		"teamName": "Suns",
+		"internalPlayerId": "bradleybeal1723807",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 2.2,
+				"underOdds": 1.67,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 2.16,
+				"underOdds": 1.7,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 2.1,
+				"underOdds": 1.65,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 2.17,
+				"underOdds": 1.66,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 2.12,
+				"underOdds": 1.65,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 2.2,
+				"underOdds": 1.63,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 2.15,
+				"underOdds": 1.67,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 2.2,
+				"underOdds": 1.63,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.12,
+				"underOdds": 1.67,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.5,
+				"underOdds": 2.48,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.12,
+				"underOdds": 1.67,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.5,
+				"underOdds": 2.48,
+				"total": 3.5
+			}
+		],
+		"averagesByTotal": {
+			"4.5": {
+				"averageOverOdds": 2.15,
+				"averageUnderOdds": 1.66,
+				"bookCount": 10
+			},
+			"3.5": {
+				"averageOverOdds": 1.5,
+				"averageUnderOdds": 2.48,
+				"bookCount": 2
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "4.5",
+		"closestTotal": "4.5",
+		"sideToTarget": "under",
+		"higherAdjacentTotal": null,
+		"lowerAdjacentTotal": "3.5",
+		"strength": "21.80"
+	},
+	{
+		"type": "projection",
+		"betId": "1891474",
+		"adjustedOdds": null,
+		"description": "MIL",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 5,
+		"statType": "player_assists",
+		"marketName": "Assists",
+		"updatedAt": "2024-01-11T14:29:30-05:00",
+		"playerId": "60021",
+		"combo": false,
+		"displayName": "derrickwhite",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Boston",
+		"name": "derrickwhite",
+		"position": "G",
+		"team": "BOS",
+		"teamName": "Celtics",
+		"internalPlayerId": "derrickwhite600217",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 2.14,
+				"underOdds": 1.69,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 2.1,
+				"underOdds": 1.69,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 2.26,
+				"underOdds": 1.65,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 2.1,
+				"underOdds": 1.65,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.54,
+				"underOdds": 2.4,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.12,
+				"underOdds": 1.67,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.54,
+				"underOdds": 2.4,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.12,
+				"underOdds": 1.67,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 2.12,
+				"underOdds": 1.65,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 2.1,
+				"underOdds": 1.69,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 2.18,
+				"underOdds": 1.65,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 2.15,
+				"underOdds": 1.67,
+				"total": 5.5
+			}
+		],
+		"averagesByTotal": {
+			"5.5": {
+				"averageOverOdds": 2.14,
+				"averageUnderOdds": 1.67,
+				"bookCount": 10
+			},
+			"4.5": {
+				"averageOverOdds": 1.54,
+				"averageUnderOdds": 2.4,
+				"bookCount": 2
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "5.5",
+		"closestTotal": "5.5",
+		"sideToTarget": "under",
+		"higherAdjacentTotal": null,
+		"lowerAdjacentTotal": "4.5",
+		"strength": "21.40"
+	},
+	{
+		"type": "projection",
+		"betId": "1890590",
+		"adjustedOdds": null,
+		"description": "BOS",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 4,
+		"statType": "player_rebounds",
+		"marketName": "Rebounds",
+		"updatedAt": "2024-01-11T09:48:09-05:00",
+		"playerId": "173850",
+		"combo": false,
+		"displayName": "damianlillard",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Milwaukee",
+		"name": "damianlillard",
+		"position": "G",
+		"team": "MIL",
+		"teamName": "Bucks",
+		"internalPlayerId": "damianlillard1738507",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 2.1,
+				"underOdds": 1.71,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 2.1,
+				"underOdds": 1.69,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 1.66,
+				"underOdds": 2.24,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 2.1,
+				"underOdds": 1.67,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.5,
+				"underOdds": 2.5,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.14,
+				"underOdds": 1.66,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.5,
+				"underOdds": 2.5,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.14,
+				"underOdds": 1.66,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 2.16,
+				"underOdds": 1.63,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 2.1,
+				"underOdds": 1.69,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 2.13,
+				"underOdds": 1.68,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 2.2,
+				"underOdds": 1.63,
+				"total": 4.5
+			}
+		],
+		"averagesByTotal": {
+			"4.5": {
+				"averageOverOdds": 2.13,
+				"averageUnderOdds": 1.67,
+				"bookCount": 9
+			},
+			"3.5": {
+				"averageOverOdds": 1.55,
+				"averageUnderOdds": 2.41,
+				"bookCount": 3
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "4.5",
+		"closestTotal": "4.5",
+		"sideToTarget": "under",
+		"higherAdjacentTotal": null,
+		"lowerAdjacentTotal": "3.5",
+		"strength": "20.28"
+	},
+	{
+		"type": "projection",
+		"betId": "1889601",
+		"adjustedOdds": null,
+		"description": "NYK",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 8,
+		"statType": "player_points",
+		"marketName": "Points",
+		"updatedAt": "2024-01-11T09:42:09-05:00",
+		"playerId": "2064",
+		"combo": false,
+		"displayName": "dwightpowell",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Dallas",
+		"name": "dwightpowell",
+		"position": "F-C",
+		"team": "DAL",
+		"teamName": "Mavericks",
+		"internalPlayerId": "dwightpowell20647",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 2.05,
+				"underOdds": 1.74,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 2.05,
+				"underOdds": 1.71,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 1.8,
+				"underOdds": 1.97,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 2.14,
+				"underOdds": 1.64,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 1.77,
+				"underOdds": 1.95,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 1.87,
+				"underOdds": 1.87,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 1.94,
+				"underOdds": 1.88,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.33,
+				"underOdds": 1.51,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.78,
+				"underOdds": 1.96,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.57,
+				"underOdds": 2.23,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.35,
+				"underOdds": 1.51,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.78,
+				"underOdds": 1.96,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.57,
+				"underOdds": 2.23,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 2.05,
+				"underOdds": 1.71,
+				"total": 8.5
+			}
+		],
+		"averagesByTotal": {
+			"8.5": {
+				"averageOverOdds": 2.16,
+				"averageUnderOdds": 1.64,
+				"bookCount": 6
+			},
+			"7.5": {
+				"averageOverOdds": 1.82,
+				"averageUnderOdds": 1.93,
+				"bookCount": 6
+			},
+			"6.5": {
+				"averageOverOdds": 1.57,
+				"averageUnderOdds": 2.23,
+				"bookCount": 2
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "8.5",
+		"closestTotal": "8.5",
+		"sideToTarget": "under",
+		"higherAdjacentTotal": null,
+		"lowerAdjacentTotal": "7.5",
+		"strength": "20.24"
+	},
+	{
+		"type": "projection",
+		"betId": "1890339",
+		"adjustedOdds": null,
+		"description": "PHX",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 8,
+		"statType": "player_assists",
+		"marketName": "Assists",
+		"updatedAt": "2024-01-11T10:10:29-05:00",
+		"playerId": "57556",
+		"combo": false,
+		"displayName": "lebronjames",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Los Angeles",
+		"name": "lebronjames",
+		"position": "F",
+		"team": "LAL",
+		"teamName": "Lakers",
+		"internalPlayerId": "lebronjames575567",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 1.63,
+				"underOdds": 2.24,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 2.18,
+				"underOdds": 1.69,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 1.65,
+				"underOdds": 2.1,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 1.65,
+				"underOdds": 2.18,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 1.64,
+				"underOdds": 2.14,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 2.15,
+				"underOdds": 1.67,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 1.63,
+				"underOdds": 2.2,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 1.69,
+				"underOdds": 2.1,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.66,
+				"underOdds": 2.15,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.18,
+				"underOdds": 1.63,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.66,
+				"underOdds": 2.15,
+				"total": 7.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.18,
+				"underOdds": 1.63,
+				"total": 8.5
+			}
+		],
+		"averagesByTotal": {
+			"7.5": {
+				"averageOverOdds": 1.65,
+				"averageUnderOdds": 2.16,
+				"bookCount": 8
+			},
+			"8.5": {
+				"averageOverOdds": 2.17,
+				"averageUnderOdds": 1.66,
+				"bookCount": 4
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "7.5",
+		"closestTotal": "7.5",
+		"sideToTarget": "over",
+		"higherAdjacentTotal": "8.5",
+		"lowerAdjacentTotal": null,
+		"strength": "20.16"
+	},
+	{
+		"type": "projection",
+		"betId": "1890322",
+		"adjustedOdds": null,
+		"description": "PHX",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 4,
+		"statType": "player_rebounds",
+		"marketName": "Rebounds",
+		"updatedAt": "2024-01-11T09:52:07-05:00",
+		"playerId": "55934",
+		"combo": false,
+		"displayName": "austinreaves",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Los Angeles",
+		"name": "austinreaves",
+		"position": "G",
+		"team": "LAL",
+		"teamName": "Lakers",
+		"internalPlayerId": "austinreaves559347",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 1.69,
+				"underOdds": 2.14,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 1.76,
+				"underOdds": 2.08,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 1.69,
+				"underOdds": 2.05,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 1.71,
+				"underOdds": 2.09,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 1.68,
+				"underOdds": 2.08,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 1.71,
+				"underOdds": 2.05,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 1.69,
+				"underOdds": 2.1,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 1.69,
+				"underOdds": 2.1,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.55,
+				"underOdds": 1.47,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.7,
+				"underOdds": 2.08,
+				"total": 3.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.55,
+				"underOdds": 1.47,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.7,
+				"underOdds": 2.08,
+				"total": 3.5
+			}
+		],
+		"averagesByTotal": {
+			"3.5": {
+				"averageOverOdds": 1.7,
+				"averageUnderOdds": 2.08,
+				"bookCount": 10
+			},
+			"4.5": {
+				"averageOverOdds": 2.55,
+				"averageUnderOdds": 1.47,
+				"bookCount": 2
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "3.5",
+		"closestTotal": "3.5",
+		"sideToTarget": "over",
+		"higherAdjacentTotal": "4.5",
+		"lowerAdjacentTotal": null,
+		"strength": "19.60"
+	},
+	{
+		"type": "projection",
+		"betId": "1890595",
+		"adjustedOdds": null,
+		"description": "BOS",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 6,
+		"statType": "player_assists",
+		"marketName": "Assists",
+		"updatedAt": "2024-01-11T08:01:54-05:00",
+		"playerId": "1681",
+		"combo": false,
+		"displayName": "giannisantetokounmpo",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Milwaukee",
+		"name": "giannisantetokounmpo",
+		"position": "F",
+		"team": "MIL",
+		"teamName": "Bucks",
+		"internalPlayerId": "giannisantetokounmpo16817",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 2.1,
+				"underOdds": 1.71,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 2.1,
+				"underOdds": 1.69,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 2.26,
+				"underOdds": 1.65,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 1.67,
+				"underOdds": 2.1,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.15,
+				"underOdds": 1.66,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.57,
+				"underOdds": 2.28,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.15,
+				"underOdds": 1.66,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.57,
+				"underOdds": 2.28,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 2.18,
+				"underOdds": 1.61,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 2.1,
+				"underOdds": 1.69,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 1.67,
+				"underOdds": 2.15,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 2.1,
+				"underOdds": 1.69,
+				"total": 6.5
+			}
+		],
+		"averagesByTotal": {
+			"6.5": {
+				"averageOverOdds": 2.14,
+				"averageUnderOdds": 1.67,
+				"bookCount": 8
+			},
+			"5.5": {
+				"averageOverOdds": 1.62,
+				"averageUnderOdds": 2.2,
+				"bookCount": 4
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "6.5",
+		"closestTotal": "6.5",
+		"sideToTarget": "under",
+		"higherAdjacentTotal": null,
+		"lowerAdjacentTotal": "5.5",
+		"strength": "19.52"
+	},
+	{
+		"type": "projection",
+		"betId": "1889604",
+		"adjustedOdds": null,
+		"description": "DAL",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 28,
+		"statType": "player_points",
+		"marketName": "Points",
+		"updatedAt": "2024-01-11T15:40:09-05:00",
+		"playerId": "85745",
+		"combo": false,
+		"displayName": "jalenbrunson",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "New York",
+		"name": "jalenbrunson",
+		"position": "G",
+		"team": "NYK",
+		"teamName": "Knicks",
+		"internalPlayerId": "jalenbrunson857457",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 1.95,
+				"underOdds": 1.8,
+				"total": 28.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 1.8,
+				"underOdds": 1.95,
+				"total": 27.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 2,
+				"underOdds": 1.77,
+				"total": 28.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 1.93,
+				"underOdds": 1.79,
+				"total": 28.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 1.95,
+				"underOdds": 1.74,
+				"total": 28.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 1.83,
+				"underOdds": 1.91,
+				"total": 27.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 1.87,
+				"underOdds": 1.95,
+				"total": 27.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.02,
+				"underOdds": 1.74,
+				"total": 28.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.83,
+				"underOdds": 1.91,
+				"total": 27.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.8,
+				"underOdds": 1.35,
+				"total": 31.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.4,
+				"underOdds": 2.65,
+				"total": 24.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.48,
+				"underOdds": 1.45,
+				"total": 30.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.04,
+				"underOdds": 1.73,
+				"total": 28.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.85,
+				"underOdds": 1.88,
+				"total": 27.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.8,
+				"underOdds": 1.34,
+				"total": 31.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.41,
+				"underOdds": 2.6,
+				"total": 24.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.5,
+				"underOdds": 1.44,
+				"total": 30.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 1.95,
+				"underOdds": 1.8,
+				"total": 28.5
+			}
+		],
+		"averagesByTotal": {
+			"28.5": {
+				"averageOverOdds": 1.98,
+				"averageUnderOdds": 1.77,
+				"bookCount": 7
+			},
+			"27.5": {
+				"averageOverOdds": 1.84,
+				"averageUnderOdds": 1.92,
+				"bookCount": 5
+			},
+			"31.5": {
+				"averageOverOdds": 2.8,
+				"averageUnderOdds": 1.35,
+				"bookCount": 2
+			},
+			"24.5": {
+				"averageOverOdds": 1.4,
+				"averageUnderOdds": 2.63,
+				"bookCount": 2
+			},
+			"30.5": {
+				"averageOverOdds": 2.49,
+				"averageUnderOdds": 1.44,
+				"bookCount": 2
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "28.5",
+		"closestTotal": "28.5",
+		"sideToTarget": "under",
+		"higherAdjacentTotal": null,
+		"lowerAdjacentTotal": "27.5",
+		"strength": "19.47"
+	},
+	{
+		"type": "projection",
+		"betId": "1889997",
+		"adjustedOdds": null,
+		"description": "POR",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 6,
+		"statType": "player_rebounds",
+		"marketName": "Rebounds",
+		"updatedAt": "2024-01-11T09:48:43-05:00",
+		"playerId": "2243",
+		"combo": false,
+		"displayName": "shaigilgeous-alexander",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Oklahoma City",
+		"name": "shaigilgeous-alexander",
+		"position": "G",
+		"team": "OKC",
+		"teamName": "Thunder",
+		"internalPlayerId": "shaigilgeous-alexander22437",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 2.2,
+				"underOdds": 1.67,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 1.81,
+				"underOdds": 2.02,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 1.67,
+				"underOdds": 2.15,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 2.1,
+				"underOdds": 1.65,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 2.1,
+				"underOdds": 1.66,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 2.15,
+				"underOdds": 1.67,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 2.15,
+				"underOdds": 1.65,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.43,
+				"underOdds": 1.51,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.72,
+				"underOdds": 2.05,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.43,
+				"underOdds": 1.51,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.72,
+				"underOdds": 2.05,
+				"total": 5.5
+			}
+		],
+		"averagesByTotal": {
+			"6.5": {
+				"averageOverOdds": 2.22,
+				"averageUnderOdds": 1.62,
+				"bookCount": 7
+			},
+			"5.5": {
+				"averageOverOdds": 1.73,
+				"averageUnderOdds": 2.07,
+				"bookCount": 4
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "6.5",
+		"closestTotal": "6.5",
+		"sideToTarget": "under",
+		"higherAdjacentTotal": null,
+		"lowerAdjacentTotal": "5.5",
+		"strength": "19.40"
+	},
+	{
+		"type": "projection",
+		"betId": "1889634",
+		"adjustedOdds": null,
+		"description": "DAL",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 9,
+		"statType": "player_rebounds",
+		"marketName": "Rebounds",
+		"updatedAt": "2024-01-11T09:48:32-05:00",
+		"playerId": "54125",
+		"combo": false,
+		"displayName": "juliusrandle",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "New York",
+		"name": "juliusrandle",
+		"position": "F-C",
+		"team": "NYK",
+		"teamName": "Knicks",
+		"internalPlayerId": "juliusrandle541257",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 1.63,
+				"underOdds": 2.24,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 2,
+				"underOdds": 1.77,
+				"total": 9.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 1.68,
+				"underOdds": 2.13,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 1.74,
+				"underOdds": 1.99,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 1.67,
+				"underOdds": 2.1,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 1.63,
+				"underOdds": 2.2,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 2.12,
+				"underOdds": 1.72,
+				"total": 9.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.67,
+				"underOdds": 2.12,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.15,
+				"underOdds": 1.65,
+				"total": 9.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.68,
+				"underOdds": 2.12,
+				"total": 8.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.18,
+				"underOdds": 1.64,
+				"total": 9.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 1.71,
+				"underOdds": 2.05,
+				"total": 8.5
+			}
+		],
+		"averagesByTotal": {
+			"8.5": {
+				"averageOverOdds": 1.68,
+				"averageUnderOdds": 2.12,
+				"bookCount": 8
+			},
+			"9.5": {
+				"averageOverOdds": 2.11,
+				"averageUnderOdds": 1.7,
+				"bookCount": 4
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "8.5",
+		"closestTotal": "8.5",
+		"sideToTarget": "over",
+		"higherAdjacentTotal": "9.5",
+		"lowerAdjacentTotal": null,
+		"strength": "19.04"
+	},
+	{
+		"type": "projection",
+		"betId": "1890596",
+		"adjustedOdds": null,
+		"description": "BOS",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 6,
+		"statType": "player_assists",
+		"marketName": "Assists",
+		"updatedAt": "2024-01-11T10:12:07-05:00",
+		"playerId": "1677",
+		"combo": false,
+		"displayName": "khrismiddleton",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Milwaukee",
+		"name": "khrismiddleton",
+		"position": "F",
+		"team": "MIL",
+		"teamName": "Bucks",
+		"internalPlayerId": "khrismiddleton16777",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 1.69,
+				"underOdds": 2.14,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 1.67,
+				"underOdds": 2.15,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 1.82,
+				"underOdds": 2,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 1.71,
+				"underOdds": 2,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.35,
+				"underOdds": 1.56,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.68,
+				"underOdds": 2.12,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.35,
+				"underOdds": 1.56,
+				"total": 6.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.68,
+				"underOdds": 2.12,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 1.73,
+				"underOdds": 2,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 1.69,
+				"underOdds": 2.1,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 1.74,
+				"underOdds": 2.05,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 1.77,
+				"underOdds": 2,
+				"total": 5.5
+			}
+		],
+		"averagesByTotal": {
+			"5.5": {
+				"averageOverOdds": 1.72,
+				"averageUnderOdds": 2.07,
+				"bookCount": 10
+			},
+			"6.5": {
+				"averageOverOdds": 2.35,
+				"averageUnderOdds": 1.56,
+				"bookCount": 2
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "5.5",
+		"closestTotal": "5.5",
+		"sideToTarget": "over",
+		"higherAdjacentTotal": "6.5",
+		"lowerAdjacentTotal": null,
+		"strength": "19.00"
+	},
+	{
+		"type": "projection",
+		"betId": "1890592",
+		"adjustedOdds": null,
+		"description": "BOS",
+		"flashSaleLineScore": null,
+		"isPromo": false,
+		"total": 5,
+		"statType": "player_rebounds",
+		"marketName": "Rebounds",
+		"updatedAt": "2024-01-11T12:47:10-05:00",
+		"playerId": "1677",
+		"combo": false,
+		"displayName": "khrismiddleton",
+		"league": "NBA",
+		"leagueId": 7,
+		"market": "Milwaukee",
+		"name": "khrismiddleton",
+		"position": "F",
+		"team": "MIL",
+		"teamName": "Bucks",
+		"internalPlayerId": "khrismiddleton16777",
+		"books": [
+			{
+				"bookmakerName": "DraftKings",
+				"overOdds": 1.71,
+				"underOdds": 2.1,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "PointsBet (US)",
+				"overOdds": 1.71,
+				"underOdds": 2.05,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "FanDuel",
+				"overOdds": 2.22,
+				"underOdds": 1.67,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "MyBookie.ag",
+				"overOdds": 1.69,
+				"underOdds": 2.05,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 1.68,
+				"underOdds": 2.12,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Unibet",
+				"overOdds": 2.43,
+				"underOdds": 1.51,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 1.68,
+				"underOdds": 2.12,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetRivers",
+				"overOdds": 2.43,
+				"underOdds": 1.51,
+				"total": 5.5
+			},
+			{
+				"bookmakerName": "Caesars",
+				"overOdds": 1.72,
+				"underOdds": 2.02,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "Bovada",
+				"overOdds": 1.69,
+				"underOdds": 2.1,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetOnline.ag",
+				"overOdds": 1.71,
+				"underOdds": 2.09,
+				"total": 4.5
+			},
+			{
+				"bookmakerName": "BetMGM",
+				"overOdds": 1.71,
+				"underOdds": 2.05,
+				"total": 4.5
+			}
+		],
+		"averagesByTotal": {
+			"4.5": {
+				"averageOverOdds": 1.7,
+				"averageUnderOdds": 2.08,
+				"bookCount": 9
+			},
+			"5.5": {
+				"averageOverOdds": 2.36,
+				"averageUnderOdds": 1.56,
+				"bookCount": 3
+			}
+		},
+		"exactMatch": false,
+		"needsHalfPoint": true,
+		"mostCommonTotal": "4.5",
+		"closestTotal": "4.5",
+		"sideToTarget": "over",
+		"higherAdjacentTotal": "5.5",
+		"lowerAdjacentTotal": null,
+		"strength": "18.84"
+	}
+]
